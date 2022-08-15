@@ -1,0 +1,18 @@
+Module : Loan application
+=============================
+customer_id
+loan_amount
+loan_term
+loan_status
+status_updated_by
+created_at
+updated_at
+
+Loan application detail
+==========================
+application_id
+installment_amount
+payment_date
+created_at
+updated_at
+
